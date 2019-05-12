@@ -1,4 +1,13 @@
-﻿FASTER GAMES
+﻿
+
+
+
+
+
+
+
+
+FASTER GAMES
 STAFF
 
 - Planificación del juego -
@@ -9,18 +18,9 @@ Marc Amorós Filella
 
 Directores
 
-Michael Castaño
+Michael Castaño Quiles
 Marc Amorós Filella
 
-
-Personajes
-
-DC Comics ©
-> Robin
-> BeastBoy
-> Starfire
-> Raven
-> Cyborg
 
 
 - Programación -
@@ -39,7 +39,7 @@ Macromedia Fireworks
 - Recursos -
 
 Diseñador Gráfico
-DC Comics ©
+Imagenes de uso libre
 Michael Castaño
 
 
