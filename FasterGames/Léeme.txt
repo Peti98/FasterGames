@@ -1,0 +1,10 @@
+Bienvenido a FasterGames.
+
+Instalación:
+Sólo es necesario instalar la fuente adjunta.
+
+FasterGames es una aplicación que propone una serie de juegos enfocados principalmente para un publico más joven, con la intención de introducirlos en el mundo de la informática.
+Cada uno de los juegos, promueve una capacidad diferente, como es la memoria, la vista o la coordinación.
+
+Proyecto llevado a cabo por Michael Castaño Quiles y Marc Amorós.
+Para cualquier consulta, puede enviar un correo a fastergames@gmail.com.
